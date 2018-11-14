@@ -1,0 +1,33 @@
+#partialWord {
+    letter-spacing: .25em;
+}
+
+h1 {
+    border: 5px dotted white;
+    padding: 1em;
+    color: white;
+    background: blue;
+    text-align: center;
+}
+
+div {
+    font-size: 2em;
+    margin: 0.5em;
+}
+button {
+    margin: 0.5em;
+    /* top: 20px; */
+    font-size: 2em;
+    display: block;
+}
+
+img {
+    width: 20%;
+    /* float: left; */
+}
+
+button:hover {
+    background: black;
+    color: white;
+    
+}
